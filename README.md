@@ -1,2 +1,2 @@
-# QT
-我的一些工程项目
+# Practice projects
+The way to become excellent!!!
